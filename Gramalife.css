@@ -1,8 +1,27 @@
-h1,h2,h3{
-color:#36C;
-font-weight:normal;
-letter-spacing:.4em;
-margin-bottom:1em;
-text-transform:lowercase;
+h1
+{
+    font-family:cursive;
+    text-align: center;
+   
+}
+h3
+{
+    font-family:cursive;
+    text-align: center;
+    
 }
 
+table.auto
+{
+    table-layout: auto;
+}
+table.fixed
+{
+    table-layout: fixed;
+}
+body
+{
+    background-image: url('12VZ2YARADABEACH.jpg');
+    background-size:cover;
+    background-repeat:norepeat;
+}
